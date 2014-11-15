@@ -8,7 +8,7 @@ Locadora DVD
 Projeto: locadora
 ========================
 Author: Adriano Santos Ramos <br>
-Tecnologias: Java <br>
+Tecnologias: JPA Hibernate <br>
 Sumário: Locadora DVD <br>
 Source: http://goo.gl/jwnyKu
 
